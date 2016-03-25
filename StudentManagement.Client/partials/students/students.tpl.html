@@ -1,0 +1,23 @@
+﻿<div ng-if="vm.loadingStudents">
+    <h2>Loading Students</h2>
+</div>
+<table ng-hide="vm.loadingStudents" class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Phone</th>
+            <th>Email</th>
+            <th>City</th>
+            <th>Address</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr ng-repeat="student in vm.students">
+            <td>{{student.Name}}</td>
+            <td>{{student.Phone}}</td>
+            <td>{{student.Email}}</td>
+            <td>{{student.City}}</td>
+            <td>{{student.Address}}</td>
+        </tr>
+    </tbody>
+</table>

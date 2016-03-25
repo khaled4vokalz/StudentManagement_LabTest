@@ -1,0 +1,32 @@
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\SudentManagement.Models\bin\Debug\SudentManagement.Models.dll.config
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\SudentManagement.Models\bin\Debug\SudentManagement.Models.dll
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\SudentManagement.Models\bin\Debug\SudentManagement.Models.pdb
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\SudentManagement.Models\bin\Debug\EntityFramework.dll
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\SudentManagement.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\SudentManagement.Models\bin\Debug\EntityFramework.xml
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\SudentManagement.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\SudentManagement.Models\obj\Debug\SudentManagement.Models.dll
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\SudentManagement.Models\obj\Debug\SudentManagement.Models.pdb
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\SudentManagement.Models\obj\Debug\SudentManagement.Models.csprojResolveAssemblyReference.cache
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\SudentManagement.Models\bin\Debug\SudentManagement.Models.dll.config
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\SudentManagement.Models\bin\Debug\SudentManagement.Models.dll
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\SudentManagement.Models\bin\Debug\SudentManagement.Models.pdb
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\SudentManagement.Models\bin\Debug\EntityFramework.dll
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\SudentManagement.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\SudentManagement.Models\bin\Debug\EntityFramework.xml
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\SudentManagement.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\SudentManagement.Models\obj\Debug\SudentManagement.Models.dll
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\SudentManagement.Models\obj\Debug\SudentManagement.Models.pdb
+C:\Users\Maruf\Desktop\StudentManagement\SudentManagement.Models\bin\Debug\SudentManagement.Models.dll.config
+C:\Users\Maruf\Desktop\StudentManagement\SudentManagement.Models\bin\Debug\SudentManagement.Models.dll
+C:\Users\Maruf\Desktop\StudentManagement\SudentManagement.Models\bin\Debug\SudentManagement.Models.pdb
+C:\Users\Maruf\Desktop\StudentManagement\SudentManagement.Models\bin\Debug\EntityFramework.dll
+C:\Users\Maruf\Desktop\StudentManagement\SudentManagement.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maruf\Desktop\StudentManagement\SudentManagement.Models\bin\Debug\EntityFramework.xml
+C:\Users\Maruf\Desktop\StudentManagement\SudentManagement.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maruf\Desktop\StudentManagement\SudentManagement.Models\obj\Debug\SudentManagement.Models.csprojResolveAssemblyReference.cache
+C:\Users\Maruf\Desktop\StudentManagement\SudentManagement.Models\obj\Debug\SudentManagement.Models.dll
+C:\Users\Maruf\Desktop\StudentManagement\SudentManagement.Models\obj\Debug\SudentManagement.Models.pdb
+C:\Users\Maruf\Desktop\StudentManagement\SudentManagement.Models\obj\Debug\SudentManagement.Models.Migrations.InitialCreate.resources
+C:\Users\Maruf\Desktop\StudentManagement\SudentManagement.Models\obj\Debug\SudentManagement.Models.csproj.GenerateResource.Cache
+C:\Users\Maruf\Desktop\StudentManagement\SudentManagement.Models\obj\Debug\SudentManagement.Models.Migrations.Initial.resources

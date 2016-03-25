@@ -1,0 +1,27 @@
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\StudentManagement.ViewModels\bin\Debug\StudentManagement.ViewModels.dll
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\StudentManagement.ViewModels\bin\Debug\StudentManagement.ViewModels.pdb
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\StudentManagement.ViewModels\bin\Debug\SudentManagement.Models.dll
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\StudentManagement.ViewModels\bin\Debug\EntityFramework.dll
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\StudentManagement.ViewModels\bin\Debug\SudentManagement.Models.pdb
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\StudentManagement.ViewModels\bin\Debug\EntityFramework.xml
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\StudentManagement.ViewModels\obj\Debug\StudentManagement.ViewModels.csprojResolveAssemblyReference.cache
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\StudentManagement.ViewModels\obj\Debug\StudentManagement.ViewModels.dll
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\StudentManagement.ViewModels\obj\Debug\StudentManagement.ViewModels.pdb
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement.ViewModels\bin\Debug\StudentManagement.ViewModels.dll
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement.ViewModels\bin\Debug\StudentManagement.ViewModels.pdb
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement.ViewModels\bin\Debug\SudentManagement.Models.dll
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement.ViewModels\bin\Debug\EntityFramework.dll
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement.ViewModels\bin\Debug\SudentManagement.Models.pdb
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement.ViewModels\bin\Debug\EntityFramework.xml
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement.ViewModels\obj\Debug\StudentManagement.ViewModels.csprojResolveAssemblyReference.cache
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement.ViewModels\obj\Debug\StudentManagement.ViewModels.dll
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement.ViewModels\obj\Debug\StudentManagement.ViewModels.pdb
+C:\Users\Maruf\Desktop\StudentManagement\StudentManagement.ViewModels\bin\Debug\StudentManagement.ViewModels.dll
+C:\Users\Maruf\Desktop\StudentManagement\StudentManagement.ViewModels\bin\Debug\StudentManagement.ViewModels.pdb
+C:\Users\Maruf\Desktop\StudentManagement\StudentManagement.ViewModels\bin\Debug\SudentManagement.Models.dll
+C:\Users\Maruf\Desktop\StudentManagement\StudentManagement.ViewModels\bin\Debug\EntityFramework.dll
+C:\Users\Maruf\Desktop\StudentManagement\StudentManagement.ViewModels\bin\Debug\SudentManagement.Models.pdb
+C:\Users\Maruf\Desktop\StudentManagement\StudentManagement.ViewModels\bin\Debug\EntityFramework.xml
+C:\Users\Maruf\Desktop\StudentManagement\StudentManagement.ViewModels\obj\Debug\StudentManagement.ViewModels.csprojResolveAssemblyReference.cache
+C:\Users\Maruf\Desktop\StudentManagement\StudentManagement.ViewModels\obj\Debug\StudentManagement.ViewModels.dll
+C:\Users\Maruf\Desktop\StudentManagement\StudentManagement.ViewModels\obj\Debug\StudentManagement.ViewModels.pdb

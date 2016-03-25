@@ -1,0 +1,36 @@
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\StudentManagement.Repository\bin\Debug\StudentManagement.Repository.dll.config
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\StudentManagement.Repository\bin\Debug\StudentManagement.Repository.dll
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\StudentManagement.Repository\bin\Debug\StudentManagement.Repository.pdb
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\StudentManagement.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\StudentManagement.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\StudentManagement.Repository\bin\Debug\SudentManagement.Models.dll
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\StudentManagement.Repository\bin\Debug\SudentManagement.Models.pdb
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\StudentManagement.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\StudentManagement.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\StudentManagement.Repository\obj\Debug\StudentManagement.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\StudentManagement.Repository\obj\Debug\StudentManagement.Repository.dll
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\StudentManagement.Repository\obj\Debug\StudentManagement.Repository.pdb
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement.Repository\bin\Debug\StudentManagement.Repository.dll.config
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement.Repository\bin\Debug\StudentManagement.Repository.dll
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement.Repository\bin\Debug\StudentManagement.Repository.pdb
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement.Repository\bin\Debug\SudentManagement.Models.dll
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement.Repository\bin\Debug\SudentManagement.Models.pdb
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement.Repository\obj\Debug\StudentManagement.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement.Repository\obj\Debug\StudentManagement.Repository.dll
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement.Repository\obj\Debug\StudentManagement.Repository.pdb
+C:\Users\Maruf\Desktop\StudentManagement\StudentManagement.Repository\bin\Debug\StudentManagement.Repository.dll.config
+C:\Users\Maruf\Desktop\StudentManagement\StudentManagement.Repository\bin\Debug\StudentManagement.Repository.dll
+C:\Users\Maruf\Desktop\StudentManagement\StudentManagement.Repository\bin\Debug\StudentManagement.Repository.pdb
+C:\Users\Maruf\Desktop\StudentManagement\StudentManagement.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Maruf\Desktop\StudentManagement\StudentManagement.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maruf\Desktop\StudentManagement\StudentManagement.Repository\bin\Debug\SudentManagement.Models.dll
+C:\Users\Maruf\Desktop\StudentManagement\StudentManagement.Repository\bin\Debug\SudentManagement.Models.pdb
+C:\Users\Maruf\Desktop\StudentManagement\StudentManagement.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Maruf\Desktop\StudentManagement\StudentManagement.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maruf\Desktop\StudentManagement\StudentManagement.Repository\obj\Debug\StudentManagement.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Maruf\Desktop\StudentManagement\StudentManagement.Repository\obj\Debug\StudentManagement.Repository.dll
+C:\Users\Maruf\Desktop\StudentManagement\StudentManagement.Repository\obj\Debug\StudentManagement.Repository.pdb

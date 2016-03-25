@@ -1,0 +1,48 @@
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\StudentManagement.Service\bin\Debug\StudentManagement.Service.dll.config
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\StudentManagement.Service\bin\Debug\StudentManagement.Service.dll
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\StudentManagement.Service\bin\Debug\StudentManagement.Service.pdb
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\StudentManagement.Service\bin\Debug\EntityFramework.dll
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\StudentManagement.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\StudentManagement.Service\bin\Debug\StudentManagement.Repository.dll
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\StudentManagement.Service\bin\Debug\StudentManagement.ViewModels.dll
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\StudentManagement.Service\bin\Debug\SudentManagement.Models.dll
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\StudentManagement.Service\bin\Debug\StudentManagement.Repository.pdb
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\StudentManagement.Service\bin\Debug\StudentManagement.ViewModels.pdb
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\StudentManagement.Service\bin\Debug\SudentManagement.Models.pdb
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\StudentManagement.Service\bin\Debug\EntityFramework.xml
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\StudentManagement.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\StudentManagement.Service\obj\Debug\StudentManagement.Service.csprojResolveAssemblyReference.cache
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\StudentManagement.Service\obj\Debug\StudentManagement.Service.dll
+C:\Users\Maruf\Documents\Visual Studio 2013\Projects\StudentManagement\StudentManagement.Service\obj\Debug\StudentManagement.Service.pdb
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement.Service\bin\Debug\StudentManagement.Service.dll.config
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement.Service\bin\Debug\StudentManagement.Service.dll
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement.Service\bin\Debug\StudentManagement.Service.pdb
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement.Service\bin\Debug\EntityFramework.dll
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement.Service\bin\Debug\StudentManagement.Repository.dll
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement.Service\bin\Debug\StudentManagement.ViewModels.dll
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement.Service\bin\Debug\SudentManagement.Models.dll
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement.Service\bin\Debug\StudentManagement.Repository.pdb
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement.Service\bin\Debug\StudentManagement.ViewModels.pdb
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement.Service\bin\Debug\SudentManagement.Models.pdb
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement.Service\bin\Debug\EntityFramework.xml
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement.Service\obj\Debug\StudentManagement.Service.csprojResolveAssemblyReference.cache
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement.Service\obj\Debug\StudentManagement.Service.dll
+C:\Users\Maruf\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement.Service\obj\Debug\StudentManagement.Service.pdb
+C:\Users\Maruf\Desktop\StudentManagement\StudentManagement.Service\bin\Debug\StudentManagement.Service.dll.config
+C:\Users\Maruf\Desktop\StudentManagement\StudentManagement.Service\bin\Debug\StudentManagement.Service.dll
+C:\Users\Maruf\Desktop\StudentManagement\StudentManagement.Service\bin\Debug\StudentManagement.Service.pdb
+C:\Users\Maruf\Desktop\StudentManagement\StudentManagement.Service\bin\Debug\EntityFramework.dll
+C:\Users\Maruf\Desktop\StudentManagement\StudentManagement.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maruf\Desktop\StudentManagement\StudentManagement.Service\bin\Debug\StudentManagement.Repository.dll
+C:\Users\Maruf\Desktop\StudentManagement\StudentManagement.Service\bin\Debug\StudentManagement.ViewModels.dll
+C:\Users\Maruf\Desktop\StudentManagement\StudentManagement.Service\bin\Debug\SudentManagement.Models.dll
+C:\Users\Maruf\Desktop\StudentManagement\StudentManagement.Service\bin\Debug\StudentManagement.Repository.pdb
+C:\Users\Maruf\Desktop\StudentManagement\StudentManagement.Service\bin\Debug\StudentManagement.ViewModels.pdb
+C:\Users\Maruf\Desktop\StudentManagement\StudentManagement.Service\bin\Debug\SudentManagement.Models.pdb
+C:\Users\Maruf\Desktop\StudentManagement\StudentManagement.Service\bin\Debug\EntityFramework.xml
+C:\Users\Maruf\Desktop\StudentManagement\StudentManagement.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maruf\Desktop\StudentManagement\StudentManagement.Service\obj\Debug\StudentManagement.Service.csprojResolveAssemblyReference.cache
+C:\Users\Maruf\Desktop\StudentManagement\StudentManagement.Service\obj\Debug\StudentManagement.Service.dll
+C:\Users\Maruf\Desktop\StudentManagement\StudentManagement.Service\obj\Debug\StudentManagement.Service.pdb
